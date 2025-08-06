@@ -15,8 +15,13 @@ Plots include top ingredients and units in training data.
 A comprehensive report that explains:
 
 Problem Statement
+
 Dataset Overview
+
 Methodology & Techniques Used
+
 Visualizations and Charts
+
 Insights & Actionable Outcomes
+
 Challenges faced and how they were handled.
