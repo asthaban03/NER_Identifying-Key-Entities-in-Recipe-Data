@@ -5,11 +5,15 @@ This repository contains the solution for the "Identifying Key Entities in Recip
 The zip file and this repository include the following components:
 
 ### Solution_Notebook.ipynb
+
 Contains the complete implementation of data loading, preprocessing, entity recognition, frequency analysis, and visualization.
+
 Libraries used include pandas, matplotlib, and optionally spaCy or other NLP tools.
+
 Plots include top ingredients and units in training data.
 ### Report.pdf
 A comprehensive report that explains:
+
 Problem Statement
 Dataset Overview
 Methodology & Techniques Used
